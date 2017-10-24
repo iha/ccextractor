@@ -115,3 +115,8 @@ package_creators/*.pkg.tar.xz
 #RPMs
 package_creators/*.rpm
 src/lib_ccx/ccx.pc
+windows/combase.pdb/
+src/**/.deps
+src/**/.dirstamp
+mac/ccextractorGUI
+linux/ccextractorGUI
